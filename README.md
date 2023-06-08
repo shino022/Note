@@ -25,6 +25,7 @@
   sth.array[0] = 4 // this works bc it's pointing to the memory location
   ```
 ## Etc
+- [Resize `<Map>` from react-map-gl on render](https://stackoverflow.com/a/72984557)
 - [Enabling click through div to underlying elements](https://stackoverflow.com/a/4839672)
 
 
