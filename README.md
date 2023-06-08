@@ -8,5 +8,6 @@
 
 ## TypeScript
 - [ways to declare a function in interface](https://stackoverflow.com/questions/30179394/multiple-ways-to-declare-a-function-on-a-typescript-interface-how-are-they-diff/30179665#30179665)
+- Ts is for compilation-time, not runtime
 
 
