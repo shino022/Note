@@ -9,5 +9,21 @@
 ## TypeScript
 - [ways to declare a function in interface](https://stackoverflow.com/questions/30179394/multiple-ways-to-declare-a-function-on-a-typescript-interface-how-are-they-diff/30179665#30179665)
 - Ts is for compilation-time, not runtime
+- readonly acts like const but it checks at compilation-time
+  ```
+  interface Sth {
+    readonly array: number[];
+    readonly num: number;
+  }
+
+  const sth: Sth = {
+    array: [1, 2, 3],
+    num: 100,
+  }
+
+  sth.num =  10 // this doesn't work
+
+  sth.array[0] = 4 // this works bc it's pointing to the memory location
+  ```
 
 
