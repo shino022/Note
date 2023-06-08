@@ -1,5 +1,4 @@
 # Note
-- [](https://stackoverflow.com/a/70910735)
 ## MUI
 - [Sx vs Style props](https://stackoverflow.com/questions/72527461/when-should-i-use-style-instead-of-sx-prop-in-material-ui)
 
@@ -25,5 +24,7 @@
 
   sth.array[0] = 4 // this works bc it's pointing to the memory location
   ```
+## Etc
+- [Enabling click through div to underlying elements](https://stackoverflow.com/a/4839672)
 
 
