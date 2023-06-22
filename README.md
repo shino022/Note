@@ -28,5 +28,6 @@
 - [UI/UX fundamentals for front end dev](https://medium.com/@hayavuk/ui-ux-design-fundamentals-for-the-front-end-developers-688ba43eaed4)
 - [Resize `<Map>` from react-map-gl on render](https://stackoverflow.com/a/72984557)
 - [Enabling click through div to underlying elements](https://stackoverflow.com/a/4839672)
+- [Jest-exception to be thrown](https://stackoverflow.com/a/61982656)
 
 
